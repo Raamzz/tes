@@ -1,3 +1,0 @@
-text = "percobaan 1"
-say(text)
-sleep(8000)
